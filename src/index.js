@@ -24,7 +24,7 @@ module.exports = {
   Structures: require('./util/Structures'),
   Util: Util,
   util: Util,
-  version: require('../package.json').version,
+  // version: require('../package.json').version,
 
   // Stores
   ChannelStore: require('./stores/ChannelStore'),
